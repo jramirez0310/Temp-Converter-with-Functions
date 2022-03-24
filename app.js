@@ -15,3 +15,16 @@ function choice(){
 
     return a
 }
+
+function askTempCel(){
+    var c = prompt("What is the temp in Celcius?")
+    return c
+}
+
+function choiceAns(b){
+    if (b == "f"){
+
+    } else if (b == "c"){
+        
+    }
+}
